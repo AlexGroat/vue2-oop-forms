@@ -44,7 +44,7 @@ class ProjectController extends Controller
 
         Project::create($data);
 
-        return ['message' => 'Project created'];
+        return redirect('/projects');
     }
 
     /**

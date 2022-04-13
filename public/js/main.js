@@ -84,29 +84,17 @@
 /******/ 	return __webpack_require__(__webpack_require__.s = 1);
 /******/ })
 /************************************************************************/
-/******/ ({
-
-/***/ "./resources/js/main.js":
-/*!******************************!*\
-  !*** ./resources/js/main.js ***!
-  \******************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-eval("// window.Event = new Vue();\n// var progressview = Vue.component('modal', {\n//     data () {\n//         return {\n//             completion:50\n//         };\n//     }\n// })\n// new Vue({\n//     el: '#main',\n//     components: {\n//     },\n// });//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9yZXNvdXJjZXMvanMvbWFpbi5qcz9mMzJhIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBO0FBRUE7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFHQTtBQUNBO0FBQ0E7QUFDQTtBQUNBIiwiZmlsZSI6Ii4vcmVzb3VyY2VzL2pzL21haW4uanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJcbi8vIHdpbmRvdy5FdmVudCA9IG5ldyBWdWUoKTtcblxuLy8gdmFyIHByb2dyZXNzdmlldyA9IFZ1ZS5jb21wb25lbnQoJ21vZGFsJywge1xuLy8gICAgIGRhdGEgKCkge1xuLy8gICAgICAgICByZXR1cm4ge1xuLy8gICAgICAgICAgICAgY29tcGxldGlvbjo1MFxuLy8gICAgICAgICB9O1xuLy8gICAgIH1cbi8vIH0pXG5cblxuLy8gbmV3IFZ1ZSh7XG4vLyAgICAgZWw6ICcjbWFpbicsXG4vLyAgICAgY29tcG9uZW50czoge1xuLy8gICAgIH0sXG4vLyB9KTtcbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./resources/js/main.js\n");
-
-/***/ }),
-
-/***/ 1:
+/******/ ([
+/* 0 */,
+/* 1 */
 /*!************************************!*\
   !*** multi ./resources/js/main.js ***!
   \************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/adam/Sites/vue-2-step-by-step/resources/js/main.js */"./resources/js/main.js");
+!(function webpackMissingModule() { var e = new Error("Cannot find module '/home/alexgro/vue/oop-forms/vue2-step-by-step-ep-19/resources/js/main.js'"); e.code = 'MODULE_NOT_FOUND'; throw e; }());
 
 
 /***/ })
-
-/******/ });
+/******/ ]);
